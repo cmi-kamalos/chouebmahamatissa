@@ -112,6 +112,9 @@ section {
     /* border: 1px solid red; */
     margin: 0 auto;
 }
+#role .project > .project-item  h4{
+    margin: 15px 0;    
+}
 .project > .project-item{
     font-family:"Roboto";
 }
