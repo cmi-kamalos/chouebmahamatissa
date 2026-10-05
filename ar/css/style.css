@@ -173,19 +173,17 @@ section {
         padding-left: 0;
         padding-right: 0;
      } 
-     #contact article {
-        display: flex;
-        flex-wrap: wrap;
+
+     #about div article {
         padding-left: 0;
         padding-right: 0;
     }
-     #contact article p {
-        width: 100%;
-    }
-      #role div {
+
+
+     #contact article {
         display: flex;
         flex-wrap: wrap;
-     }
+    }
    
 }
   
