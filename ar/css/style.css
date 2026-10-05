@@ -189,7 +189,10 @@ section {
       #role div {
         display: flex;
         flex-wrap: wrap;
-     } 
+     }
+    h4[dir="rtl"] {
+  text-align: start;
+}
    
 }
   
