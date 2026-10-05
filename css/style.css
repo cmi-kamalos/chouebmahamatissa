@@ -175,7 +175,7 @@ section {
         flex-wrap: wrap;
      } 
 
-    #about div article p{
+    #about div article{
         width: 100%;
         text-align: start;
     }
