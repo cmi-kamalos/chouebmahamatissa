@@ -177,6 +177,7 @@ section {
 
     #about div article p{
         width: 100%;
+        text-align: start;
     }
      #contact article {
         display: flex;
