@@ -113,7 +113,8 @@ section {
     margin: 0 auto;
 }
 #role .project > .project-item  h4{
-    margin: 15px 0;    
+    margin: 15px 0; 
+    text-align: start;
 }
 .project > .project-item{
     font-family:"Roboto";
@@ -127,6 +128,7 @@ section {
 }
 #portfolio .project > .project-item  h4{
     margin: 15px 0;
+    text-align: start;
     
 }
 #interest h2{
