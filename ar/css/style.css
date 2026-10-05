@@ -106,6 +106,12 @@ section {
     /* border: 1px solid red; */
     margin: 0 auto;
 }
+
+#role .project .project-item {
+    display: flex;
+    /* border: 1px solid red; */
+    margin: 0 auto;
+}
 .project > .project-item{
     font-family:"Roboto";
 }
@@ -175,6 +181,10 @@ section {
      #contact article p {
         width: 100%;
     }
+      #role div {
+        display: flex;
+        flex-wrap: wrap;
+     } 
    
 }
   
