@@ -175,11 +175,6 @@ section {
         flex-wrap: wrap;
      } 
 
-    #about div article, #about div article p{
-        width: 100%;
-        text-align: left;
-        border: 1px solid red;
-    }
      #contact article {
         display: flex;
         flex-wrap: wrap;
