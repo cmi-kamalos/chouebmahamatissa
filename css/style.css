@@ -101,15 +101,17 @@ section {
 /* .project {
     text-align: center;
 } */
+#role .project .project-item,
 #portfolio .project .project-item {
     display: flex;
-    /* border: 1px solid red; */
-    margin: 0 auto;
+    flex-wrap: wrap;
 }
-#role .project .project-item {
-    display: flex;
-    /* border: 1px solid red; */
-    margin: 0 auto;
+
+#role .project .project-item h4,
+#portfolio .project .project-item h4 {
+    width: 100%;
+    margin: 15px 0;
+    text-align: start;
 }
 .project > .project-item{
     font-family:"Roboto";
@@ -123,14 +125,6 @@ section {
 #portfolio .project p > .scribd{
     margin-top: 5px;
     width:5px;
-}
-#portfolio .project > .project-item  h4{
-    margin: 15px 0;
-    
-}
-#role .project > .project-item  h4{
-    margin: 15px 0;
-    
 }
 #interest h2{
     background-color: #3DBBFF;
