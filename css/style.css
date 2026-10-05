@@ -94,7 +94,7 @@ section {
     background-color: #fff;
     margin: 20px;
 }
-#portfolio  h2{
+#portfolio h2, #role h2{
     background-color: #3DBBFF;
     color: #fff;
 }
