@@ -114,7 +114,7 @@ section {
 }
 #role .project > .project-item  h4{
     margin: 15px 0; 
-    text-align: start;
+    text-align: right;
 }
 .project > .project-item{
     font-family:"Roboto";
@@ -128,7 +128,7 @@ section {
 }
 #portfolio .project > .project-item  h4{
     margin: 15px 0;
-    text-align: start;
+    text-align: right;
     
 }
 #interest h2{
@@ -190,9 +190,6 @@ section {
         display: flex;
         flex-wrap: wrap;
      }
-    h4[dir="rtl"] {
-  text-align: start;
-}
    
 }
   
