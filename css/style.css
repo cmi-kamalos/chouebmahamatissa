@@ -177,7 +177,8 @@ section {
 
     #about div article, #about div article p{
         width: 100%;
-        text-align: start;
+        text-align: left;
+        border: 1px solid red;
     }
      #contact article {
         display: flex;
